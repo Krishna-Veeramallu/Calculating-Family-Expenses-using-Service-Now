@@ -1,1 +1,1 @@
-Thsi folder name Documents consists Documents of all Five Phases and Final Report
+This folder named "Documents" consists Documents of all Five Phases and Final Report
