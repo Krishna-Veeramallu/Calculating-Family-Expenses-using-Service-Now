@@ -1,32 +1,54 @@
-💡 Project Title: Calculating Family Expenses Using ServiceNow
+# 📊 Calculating Family Expenses Using ServiceNow
+
 This is a ServiceNow-based solution developed during our internship to help families manage and monitor household expenses in a structured, automated, and user-friendly manner. The system enables users to log daily expenses, connect them to family-level budgets, and receive alerts when financial limits are exceeded.
 
-🔧 Key Features
-Custom tables for Family Expenses and Daily Expenses
-Auto-numbering for each record (e.g., MFE001, DFE001)
-Related lists to link daily expenses with family-level data
-Business rules for budget limit monitoring and alerts
-Custom forms for simplified expense entry
-Reports for categorized spending insights
+---
 
-📂 How It Works
-Users open the relevant form to log a daily or family expense
-Enter the necessary details such as date, category, and amount
-Submit the record, which is auto-numbered and stored
-System links the entry to the family budget and monitors thresholds
-Alerts or notifications are triggered if the budget is exceeded
-Users can view related records and download reports anytime
+## 🔧 Key Features
 
-👨‍💻 Built With
-ServiceNow Custom Tables & Forms
-UI Policies & Client Scripts
-Number Maintenance
-Business Rules
-Related Lists
+- Custom tables for **Family Expenses** and **Daily Expenses**
+- **Auto-numbering** for each record (e.g., `MFE001`, `DFE001`)
+- **Related lists** to link daily expenses with family-level data
+- **Business Rules** for budget monitoring and alerts
+- **Custom Forms** for easy data entry
+- **Categorized Reports** for spending analysis
 
-👥 Team Members (Internship Project)
-Team ID: LTVIP2025TMID20412
-Team Leader: Veeramallu Krishna Sai Saran
-Team Member: Kareti Ram Phani Kumar
-Team Member: Challa Hemasri
-Team Member: Bhupathi Samhitha
+---
+
+## 📂 How It Works
+
+1. User logs a daily or family expense through a ServiceNow form
+2. System auto-generates a record number and stores it
+3. Daily expenses are linked to their corresponding family budget
+4. Business rules validate and trigger alerts if the budget is exceeded
+5. Users can view related entries and reports
+
+---
+
+## 👨‍💻 Built With
+
+- ServiceNow Catalog Configuration
+- Custom Tables and Forms
+- UI Policies & Client Scripts
+- Business Rules (Glide API)
+- Number Maintenance
+- Related Lists
+- Notification Engine
+
+---
+
+## 👥 Team Members (Internship Project)
+
+**Team ID**: `LTVIP2025TMID20412`
+
+- 👤 **Team Leader**: Veeramallu Krishna Sai Saran  
+- 👤 **Team Member**: Kareti Ram Phani Kumar  
+- 👤 **Team Member**: Challa Hemasri  
+- 👤 **Team Member**: Bhupathi Samhitha
+
+---
+
+## 📎 License
+
+This project was developed as part of an internship program and is intended for educational purposes.
+
