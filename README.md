@@ -33,7 +33,6 @@ This is a ServiceNow-based solution developed during our internship to help fami
 - Business Rules (Glide API)
 - Number Maintenance
 - Related Lists
-- Notification Engine
 
 ---
 
